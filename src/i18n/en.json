@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full Stack Developer",
+    "description": "I create modern and functional web experiences",
+    "downloadCV": "Download CV"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of my recent work",
+    "viewGithub": "View on GitHub",
+    "demo": "Demo"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Interested in working together?",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  }
+}
