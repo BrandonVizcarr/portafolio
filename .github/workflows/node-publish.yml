@@ -38,13 +38,13 @@ jobs:
       - name: Create target folder on VPS
         run: |
           ssh ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} \
-          "mkdir -p /var/www/html/brandonviz.dev/"
+          "mkdir -p /var/www/html/brandonviz.dev/portafolio"
 
       - name: Deploy build via rsync
         run: |
           rsync -avz --delete \
             dist/browser/ \
-            ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/var/www/html/brandonviz.dev/
+            ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/var/www/html/brandonviz.dev/portafolio/
       - name: Fix permissions
         run: |
           ssh ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} "
