@@ -1,6 +1,8 @@
 {
   "nav": {
     "home": "Inicio",
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
     "projects": "Proyectos",
     "contact": "Contacto"
   },
@@ -9,6 +11,14 @@
     "role": "Desarrollador Full Stack",
     "description": "Creo experiencias web modernas y funcionales",
     "downloadCV": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description": "Me especializo en el desarrollo de aplicaciones escalables utilizando arquitecturas de microservicios y microfrontends. Tengo sólida experiencia en infraestructura en la nube con GCP y administración de servidores VPS Linux. Además, integro soluciones de Inteligencia Artificial utilizando herramientas como UiPath y la API de OpenAI para potenciar la automatización y la experiencia del usuario."
+  },
+  "skills": {
+    "title": "Habilidades Técnicas",
+    "subtitle": "Tecnologías con las que trabajo"
   },
   "projects": {
     "title": "Proyectos",

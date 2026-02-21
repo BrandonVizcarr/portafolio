@@ -1,9 +1,8 @@
 import { createContext, useContext, useState, ReactNode } from 'react';
 import es from '../i18n/es.json';
 import en from '../i18n/en.json';
-import fr from '../i18n/fr.json';
 
-type Language = 'es' | 'en' | 'fr';
+type Language = 'es' | 'en';
 type Translations = typeof es;
 
 interface I18nContextType {
@@ -12,7 +11,7 @@ interface I18nContextType {
   t: Translations;
 }
 
-const translations: Record<Language, Translations> = { es, en, fr };
+const translations: Record<Language, Translations> = { es, en };
 
 const I18nContext = createContext<I18nContextType | undefined>(undefined);
 

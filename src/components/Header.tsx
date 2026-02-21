@@ -22,6 +22,18 @@ export default function Header() {
             {t.nav.home}
           </button>
           <button
+            onClick={() => scrollToSection('about')}
+            className="text-gray-600 hover:text-gray-900 transition-colors"
+          >
+            {t.nav.about}
+          </button>
+          <button
+            onClick={() => scrollToSection('skills')}
+            className="text-gray-600 hover:text-gray-900 transition-colors"
+          >
+            {t.nav.skills}
+          </button>
+          <button
             onClick={() => scrollToSection('projects')}
             className="text-gray-600 hover:text-gray-900 transition-colors"
           >

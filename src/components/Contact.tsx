@@ -8,20 +8,20 @@ export default function Contact() {
     {
       icon: Mail,
       label: t.contact.email,
-      value: 'tuemail@ejemplo.com',
-      href: 'mailto:tuemail@ejemplo.com'
+      value: 'vizcarrabrandon25@gmail.com',
+      href: 'mailto:vizcarrabrandon25@gmail.com'
     },
     {
       icon: Github,
       label: t.contact.github,
-      value: 'github.com/tuusuario',
-      href: 'https://github.com/tuusuario'
+      value: 'github.com/BrandonVizcarr',
+      href: 'https://github.com/BrandonVizcarr'
     },
     {
       icon: Linkedin,
       label: t.contact.linkedin,
-      value: 'linkedin.com/in/tuusuario',
-      href: 'https://linkedin.com/in/tuusuario'
+      value: 'linkedin.com/in/brandon-vizcarra-116942319',
+      href: 'https://www.linkedin.com/in/brandon-vizcarra-116942319'
     }
   ];
 

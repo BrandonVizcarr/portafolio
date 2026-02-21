@@ -1,6 +1,8 @@
 {
   "nav": {
     "home": "Home",
+    "about": "About",
+    "skills": "Skills",
     "projects": "Projects",
     "contact": "Contact"
   },
@@ -9,6 +11,14 @@
     "role": "Full Stack Developer",
     "description": "I create modern and functional web experiences",
     "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I specialize in developing scalable applications using microservices and microfrontend architectures. I have solid experience with cloud infrastructure on GCP and managing Linux VPS servers. Additionally, I integrate AI solutions using tools like UiPath and the OpenAI API."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Technologies I work with"
   },
   "projects": {
     "title": "Projects",
