@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Sobre Mí",
-    "description": "Me especializo en el desarrollo de aplicaciones escalables utilizando arquitecturas de microservicios y microfrontends. Tengo sólida experiencia en infraestructura en la nube con GCP y administración de servidores VPS Linux. Además, integro soluciones de Inteligencia Artificial utilizando herramientas como UiPath y la API de OpenAI para potenciar la automatización y la experiencia del usuario."
+    "description": "Desarrollador Full Stack especializado en la creación de microservicios escalables utilizando Spring Boot (Java 17/21), WebFlux y arquitecturas reactivas. Poseo un dominio avanzado en la integración de APIs REST, bases de datos SQL/NoSQL, y el desarrollo de interfaces en Angular con autenticación segura (OAuth/MSAL). Cuento con experiencia probada en la implementación de IA (LLMs y Spring AI), despliegue de contenedores en Kubernetes mediante GCP y Rancher, y optimización de rendimiento con JMeter. Mi trayectoria incluye la migración de sistemas críticos, mitigación de vulnerabilidades y trabajo bajo metodologías ágiles, complementado por un inicio técnico en soporte de infraestructura y redes."
   },
   "skills": {
     "title": "Habilidades Técnicas",

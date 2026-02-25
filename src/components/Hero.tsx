@@ -1,13 +1,14 @@
 import { Download } from 'lucide-react';
 import { useI18n } from '../hooks/useI18n';
+import engCv from '../assets/BrandonVizcarraCv.pdf';
 
 export default function Hero() {
   const { t } = useI18n();
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/cv.pdf';
-    link.download = 'CV.pdf';
+    link.href = engCv;
+    link.download = 'BrandonVizcarra_CV.pdf';
     link.click();
   };
 

@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "About Me",
-    "description": "I specialize in developing scalable applications using microservices and microfrontend architectures. I have solid experience with cloud infrastructure on GCP and managing Linux VPS servers. Additionally, I integrate AI solutions using tools like UiPath and the OpenAI API."
+    "description": "Full Stack Developer specializing in building scalable microservices using Spring Boot (Java 17/21), WebFlux, and reactive architectures. I am proficient in integrating REST APIs, SQL/NoSQL databases, and developing Angular interfaces with secure authentication (OAuth/MSAL). My expertise includes implementing AI tools (LLMs and Spring AI), deploying Kubernetes containers via GCP and Rancher, and performance optimization using JMeter. My background covers migrating critical high-concurrency services, mitigating security vulnerabilities, and collaborating in Agile environments, all built upon a foundational start in IT infrastructure and network support."
   },
   "skills": {
     "title": "Technical Skills",
